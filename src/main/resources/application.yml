@@ -1,0 +1,3 @@
+weather:
+  apiKey: "7ea86fbe418918f3e06d5445c9a71ffd"
+  url: "http://api.openweathermap.org"
